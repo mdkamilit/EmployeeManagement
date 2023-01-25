@@ -1,0 +1,12 @@
+.card-header{
+    padding: 0.5rem 1rem;
+    margin-bottom: 0;
+    background-color: rgba(0,0,0,.03);
+    border-bottom: 1px solid rgba(0,0,0,.125);
+    margin-left: 80px;
+    border-radius: 10px;
+    border-left-width: thick;
+    padding-left: 30px;
+    width: 70rem;
+    
+}
